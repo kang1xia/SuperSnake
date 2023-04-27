@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SuperSnake.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SuperSnake.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SuperSnakeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\HoloLens">
+      <UniqueIdentifier>{4C8DD267-CDE7-336F-8602-F5F485D22BAB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\HoloLens\HoloLensEngine.ini">
+      <Filter>Config\HoloLens</Filter>
+    </None>
+    <Filter Include="Source\SuperSnake">
+      <UniqueIdentifier>{031C0487-786E-362D-BD58-855BE4E14D3B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SuperSnake\BodyActor.cpp">
+      <Filter>Source\SuperSnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperSnake\BodyActor.h">
+      <Filter>Source\SuperSnake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SuperSnake\FoodActor.cpp">
+      <Filter>Source\SuperSnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperSnake\FoodActor.h">
+      <Filter>Source\SuperSnake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SuperSnake\SnakeAiComponent.cpp">
+      <Filter>Source\SuperSnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperSnake\SnakeAiComponent.h">
+      <Filter>Source\SuperSnake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SuperSnake\SnakeController.cpp">
+      <Filter>Source\SuperSnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperSnake\SnakeController.h">
+      <Filter>Source\SuperSnake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SuperSnake\SnakeInfoInterface.cpp">
+      <Filter>Source\SuperSnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperSnake\SnakeInfoInterface.h">
+      <Filter>Source\SuperSnake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SuperSnake\SnakePawn.cpp">
+      <Filter>Source\SuperSnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperSnake\SnakePawn.h">
+      <Filter>Source\SuperSnake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SuperSnake\SnakeSaveGame.cpp">
+      <Filter>Source\SuperSnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperSnake\SnakeSaveGame.h">
+      <Filter>Source\SuperSnake</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SuperSnake\SuperSnake.Build.cs">
+      <Filter>Source\SuperSnake</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SuperSnake\SuperSnake.cpp">
+      <Filter>Source\SuperSnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperSnake\SuperSnake.h">
+      <Filter>Source\SuperSnake</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SuperSnake\SuperSnakeGameModeBase.cpp">
+      <Filter>Source\SuperSnake</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SuperSnake\SuperSnakeGameModeBase.h">
+      <Filter>Source\SuperSnake</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

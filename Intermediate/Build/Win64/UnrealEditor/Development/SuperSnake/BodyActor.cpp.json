@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\source\\supersnake\\bodyactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\supersnakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\development\\supersnake\\definitions.supersnake.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\source\\supersnake\\bodyactor.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\source\\supersnake\\snakeinfointerface.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\inc\\supersnake\\snakeinfointerface.generated.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\source\\supersnake\\snakepawn.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\inc\\supersnake\\snakepawn.generated.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\inc\\supersnake\\bodyactor.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\papersprite.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\spriteeditoronlytypes.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\spriteeditoronlytypes.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\public\\slate\\slatetextureatlasinterface.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\slatetextureatlasinterface.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\papersprite.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\source\\paper2d\\classes\\paperspritecomponent.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\plugins\\2d\\paper2d\\intermediate\\build\\win64\\unrealeditor\\inc\\paper2d\\paperspritecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

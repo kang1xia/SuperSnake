@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"H:\\EPIC\\UnrealEngine\\Project\\UECPP\\SuperSnake\\Source\\SuperSnake\\SuperSnake.Build.cs",
+		"H:\\EPIC\\UnrealEngine\\Project\\UECPP\\SuperSnake\\Source\\SuperSnake.Target.cs",
+		"H:\\EPIC\\UnrealEngine\\Project\\UECPP\\SuperSnake\\Source\\SuperSnakeEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

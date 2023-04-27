@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\source\\supersnake\\supersnakegamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\supersnakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\development\\supersnake\\definitions.supersnake.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\source\\supersnake\\supersnakegamemodebase.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\inc\\supersnake\\supersnakegamemodebase.generated.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\source\\supersnake\\snakepawn.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\source\\supersnake\\snakeinfointerface.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\inc\\supersnake\\snakeinfointerface.generated.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\inc\\supersnake\\snakepawn.generated.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\source\\supersnake\\foodactor.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\inc\\supersnake\\foodactor.generated.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\source\\supersnake\\snakecontroller.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\inc\\supersnake\\snakecontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

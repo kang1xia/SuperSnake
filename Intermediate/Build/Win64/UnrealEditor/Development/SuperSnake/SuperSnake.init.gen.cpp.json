@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\inc\\supersnake\\supersnake.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\supersnakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\development\\supersnake\\definitions.supersnake.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

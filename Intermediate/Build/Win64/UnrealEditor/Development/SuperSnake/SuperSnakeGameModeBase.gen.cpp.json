@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\inc\\supersnake\\supersnakegamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\supersnakeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\development\\supersnake\\definitions.supersnake.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\source\\supersnake\\supersnakegamemodebase.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "h:\\epic\\unrealengine\\content\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "h:\\epic\\unrealengine\\project\\uecpp\\supersnake\\intermediate\\build\\win64\\unrealeditor\\inc\\supersnake\\supersnakegamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
